@@ -1,2 +1,2 @@
 # ST10528979-JAVAPOE1
-Registration and Log in classes
+Registration, Log and messages in classes
